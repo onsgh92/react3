@@ -1,0 +1,15 @@
+img{
+border: saddlebrown solid 7px;
+width: 600px;
+height: 600px;
+}
+h1{
+
+    font-family: 'Segoe UI';
+    color: salmon;
+}
+p{
+font-family: Arial;
+background-color: silver;
+color: tomato;
+}
